@@ -1,3 +1,3 @@
-# NodeExpressApi_and_ajaxWithFetch
+# Blog post Api using Node, Express, and MongoDB
 
 The mongoose connection is local.
